@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+ 
+ <head>
+   
+ <style>
+    
+body{
+        
+background-color: lightpink;
+  
+  }
+     
+ button{
+        color:white;
+        background-color:dodgerblue;
+      }
+
+    </style>
+   
+ <h1 style="color:skyblue;text-align:center;">RESUME</h1>
+
+  </head>
+  <body>
+    <h2 style="color:purple;">Hello!!! I'm Jothimani</h2>
+ 
+   <h3 style="color:purple;">Wed Developer</h3>
+   
+ <p style="color:purple;">To get a great opportunity to showcase my skills to the company's growth </p>
+ 
+ <button on click="url">Hire me Now</button>
+
+  <button on click='url'>Download Resume</button>
+  <img src=""
+ 
+ </body>
+
+</html>
